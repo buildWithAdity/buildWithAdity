@@ -39,3 +39,15 @@ Right now I'm exploring mobile development, AI, and thoughtful user interfacesâ€
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,git,github,vscode,figma&theme=light" />
 </p>
+
+---
+
+## ðŸ“Š GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buildWithAdity&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildWithAdity&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</p>
