@@ -31,3 +31,11 @@ Right now I'm exploring mobile development, AI, and thoughtful user interfaces�
 ## 🌸 A little reminder
 
 > *Small progress is still progress.*
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,git,github,vscode,figma&theme=light" />
+</p>
