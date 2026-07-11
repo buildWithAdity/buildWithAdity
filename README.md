@@ -1,27 +1,21 @@
-# 🌸 Hi, I'm Adity
+# 🌸 Hi, I'm Adity Biswakarma
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:E1BEE7&height=250&section=header&text=Adity%20Biswakarma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:E1BEE7&height=250&section=header&text=Adity%20Biswakarma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h3 align="center">
+💻 BCA Student • Building Websites & Apps • Exploring Artificial Intelligence
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Learning+by+building+real+projects;Exploring+Web+Development+%26+AI;Always+curious.+Always+creating."/>
 </p>
 
 <p align="center">
-
-### 💻 Full Stack Developer • AI Learner • Creative UI Designer
-
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+beautiful+projects...;Learning+AI+%26+Full+Stack+Development;Always+curious.+Always+creating."/>
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=buildWithAdity&label=Visitors&color=blueviolet&style=flat-square"/>
-
-<img src="https://img.shields.io/github/followers/buildWithAdity?style=flat-square&logo=github">
-
-<img src="https://img.shields.io/github/stars/buildWithAdity?style=flat-square&logo=github">
-
+  <img src="https://komarev.com/ghpvc/?username=buildWithAdity&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/buildWithAdity?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/github/stars/buildWithAdity?style=flat-square&logo=github"/>
 </p>
 
 ---
@@ -31,26 +25,36 @@
 ```yaml
 Name: Adity Biswakarma
 Location: India 🇮🇳
-Education: BCA Student
-Passion: Building beautiful software
+Education: Bachelor of Computer Applications (BCA)
+
+I'm passionate about:
+  - Web Development
+  - App Development
+  - Artificial Intelligence
+  - UI/UX Design
+
 Currently Learning:
   - React
   - Node.js
   - MongoDB
-  - Artificial Intelligence
-Goal:
-  Become a Full Stack + AI Engineer
+  - React Native
+  - Python
+
+Current Goal:
+  Build meaningful projects,
+  improve my development skills,
+  and contribute to open source.
 ```
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
 | Project | Description | Status |
 |----------|-------------|--------|
-| 📚 StudyFlow AI | AI-powered study assistant | 🚧 Building |
-| 💃 Dance Academy | Bharatanatyam website using React | ✅ Live |
-| 🌸 Cute Calendar | Electron desktop application | ✅ Finished |
+| 📚 StudyFlow AI | AI-powered study companion | 🚧 In Progress |
+| 💃 Dance Academy | Bharatanatyam website built with React | ✅ Live |
+| 🌸 Cute Calendar | Desktop calendar built with Electron | ✅ Completed |
 
 ---
 
@@ -64,7 +68,7 @@ Goal:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -102,48 +106,75 @@ Goal:
 
 ---
 
+# 🏅 GitHub Achievements
+
+<p align="center">
+
+🦈 Pull Shark
+
+🚀 More achievements coming as I continue learning and contributing.
+
+</p>
+
+---
+
 # 🌱 Currently Learning
 
 ```text
-React
-React Native
-Node.js
-Express
-MongoDB
-Firebase
-Python
-Artificial Intelligence
-Machine Learning
-Git & GitHub
+🌱 React
+🌱 React Native
+🌱 Node.js
+🌱 Express.js
+🌱 MongoDB
+🌱 Firebase
+🌱 Python
+🌱 Artificial Intelligence
+🌱 Machine Learning
+🌱 Git & GitHub
 ```
+
+---
+
+# 📅 Current Learning Focus
+
+```text
+React             ███████████░░░░
+Node.js           █████████░░░░░░
+Python            ██████████░░░░░
+Artificial Intelligence ███████░░░░░░
+UI / UX           ████████████░░░
+```
+
+---
+
+# 🔭 What I'm Working On
+
+- 📚 Building **StudyFlow AI**
+- 💃 Improving **Dance Academy**
+- 🌸 Creating desktop applications with Electron
+- 🌐 Learning modern web development
+- 🤖 Exploring Artificial Intelligence
+- 🌍 Preparing for Open Source Contributions
 
 ---
 
 # 🎯 Goals for 2026
 
-✅ Build AI Projects
-
-✅ Learn React Native
-
-✅ Contribute to Open Source
-
-✅ Publish Full Stack Applications
-
-✅ Reach 100+ GitHub Contributions
-
-✅ Earn GitHub Achievements
+- ✅ Build a professional GitHub profile
+- ✅ Earn the Pull Shark achievement
+- ✅ Set up Contribution Snake
+- 🚧 Complete StudyFlow AI
+- ⬜ Learn React Native
+- ⬜ Build more web & mobile projects
+- ⬜ Make my first Open Source contribution
+- ⬜ Reach 500+ GitHub contributions
+- ⬜ Continue learning every day
 
 ---
 
-# 📂 Featured Repositories
+# 💡 Favorite Quote
 
-⭐ StudyFlow AI
-
-⭐ Dance Academy
-
-⭐ Cute Calendar
-
-More exciting projects coming soon...
+> *"The expert in anything was once a beginner who refused to give up."*
 
 ---
 
@@ -166,17 +197,17 @@ More exciting projects coming soon...
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/buildWithAdity/buildWithAdity/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/buildWithAdity/buildWithAdity/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider following me!
+## 🌸 Thanks for visiting my GitHub profile!
 
-Happy Coding 💜
+**Learning • Building • Growing**
+
+⭐ If you enjoy my projects, consider giving them a star!
 
 </p>
