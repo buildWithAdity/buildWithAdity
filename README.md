@@ -1,91 +1,92 @@
 # 🌸 Hi, I'm Adity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8C7FF&height=250&section=header&text=Adity's%20Little%20Code%20Garden&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:E1BEE7&height=250&section=header&text=Adity%20Biswakarma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-🌷 ───────── ✨ ───────── 🌷
+
+### 💻 Full Stack Developer • AI Learner • Creative UI Designer
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&width=800&lines=Welcome+to+my+little+corner+of+GitHub+🌷;Building+ideas+one+commit+at+a+time+✨;Learning,+creating,+and+growing+🌱"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+beautiful+projects...;Learning+AI+%26+Full+Stack+Development;Always+curious.+Always+creating."/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buildWithAdity&label=Profile%20Visitors&color=ffb6d9&style=flat-square"/>
+
+<img src="https://komarev.com/ghpvc/?username=buildWithAdity&label=Visitors&color=blueviolet&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/buildWithAdity?style=flat-square&logo=github">
+
+<img src="https://img.shields.io/github/stars/buildWithAdity?style=flat-square&logo=github">
+
 </p>
 
 ---
 
-# 🌷 About Me
+# 👩‍💻 About Me
 
-> *A curious builder collecting little victories, one project at a time.*
-
-I love transforming small ideas into meaningful projects.
-
-My coding journey is a collection of experiments, bugs, fixes, late-night ideas, and tiny achievements.
-
-Currently exploring:
-
-- 🤖 Artificial Intelligence
-- 📱 Mobile Development
-- 🎨 Creative UI/UX
-- 🌐 Full Stack Development
-
----
-
-# 🌸 Currently Growing
-
-| Project | Description |
-|----------|-------------|
-| 📚 StudyFlow AI | AI-powered learning companion |
-| 💃 Dance Academy | Bharatanatyam cultural platform |
-| 🌧 RainNotes | Cozy productivity application |
-| 🌱 Future Ideas | Waiting to bloom |
-
----
-
-# 🌱 Learning Garden
-
-```text
-🌱 React Native
-🌱 React
-🌱 Node.js
-🌱 Express.js
-🌱 MongoDB
-🌱 Firebase
-🤖 Artificial Intelligence
-🎨 UI/UX Design
-🐍 Python
-🌐 HTML
-🎨 CSS
-✨ JavaScript
+```yaml
+Name: Adity Biswakarma
+Location: India 🇮🇳
+Education: BCA Student
+Passion: Building beautiful software
+Currently Learning:
+  - React
+  - Node.js
+  - MongoDB
+  - Artificial Intelligence
+Goal:
+  Become a Full Stack + AI Engineer
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Current Projects
+
+| Project | Description | Status |
+|----------|-------------|--------|
+| 📚 StudyFlow AI | AI-powered study assistant | 🚧 Building |
+| 💃 Dance Academy | Bharatanatyam website using React | ✅ Live |
+| 🌸 Cute Calendar | Electron desktop application | ✅ Finished |
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,firebase,html,css,js,git,github,vscode,figma&perline=7"/>
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,firebase,html,css,js,git,github,vscode,figma,c,cpp&perline=7"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=buildWithAdity&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buildWithAdity&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buildWithAdity&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=buildWithAdity&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildWithAdity&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildWithAdity&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildWithAdity&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -95,63 +96,67 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=buildWithAdity&theme=flat&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=buildWithAdity&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌱 Currently Learning
 
-| Project | Description |
-|----------|-------------|
-| 📚 StudyFlow AI | AI-powered study assistant |
-| 💃 Dance Academy | Bharatanatyam website built with React |
-| 🌧 RainNotes | Cozy productivity Electron app |
-| 📅 Cute Calendar | Desktop calendar built with Electron |
-| 🏠 Hostel Management System | Full Stack hostel management project |
-| 🤖 AI Experiments | Machine Learning & AI projects |
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildWithAdity&theme=github-compact&hide_border=true"/>
-
-</p>
+```text
+React
+React Native
+Node.js
+Express
+MongoDB
+Firebase
+Python
+Artificial Intelligence
+Machine Learning
+Git & GitHub
+```
 
 ---
 
-# 🌸 My Coding Philosophy
+# 🎯 Goals for 2026
 
-> *"Every bug teaches something.*  
-> *Every project tells a story.*  
-> *Every commit is one tiny step forward."*
+✅ Build AI Projects
 
----
+✅ Learn React Native
 
-# 🎯 2026 Goals
+✅ Contribute to Open Source
 
-- 🌱 Master React Native
-- 🤖 Build AI-powered applications
-- 🚀 Contribute to Open Source
-- 💻 Create beautiful Full Stack projects
-- 📚 Keep learning every day
+✅ Publish Full Stack Applications
+
+✅ Reach 100+ GitHub Contributions
+
+✅ Earn GitHub Achievements
 
 ---
 
-# 📫 Let's Connect
+# 📂 Featured Repositories
+
+⭐ StudyFlow AI
+
+⭐ Dance Academy
+
+⭐ Cute Calendar
+
+More exciting projects coming soon...
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/buildWithAdity">
-<img src="https://img.shields.io/badge/GitHub-buildWithAdity-E8C7FF?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-buildWithAdity-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:aduubk888@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -161,15 +166,17 @@ Currently exploring:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/buildWithAdity/buildWithAdity/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/buildWithAdity/buildWithAdity/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
 <p align="center">
 
-### 🌷 Thanks for visiting my little code garden 🌷
+⭐ If you like my work, consider following me!
 
-✨ Happy Coding ✨
+Happy Coding 💜
 
 </p>
