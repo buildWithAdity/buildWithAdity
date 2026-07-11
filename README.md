@@ -4,12 +4,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:E1BEE7&height=250&section=header&text=Adity%20Biswakarma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-🦈%20Unlocked-success?style=for-the-badge"/>
+</p>
+
 <h3 align="center">
-💻 BCA Student • Building Websites & Apps • Exploring Artificial Intelligence
+🌱 BCA Student • Learning Web Development • Building Apps • Exploring AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Learning+by+building+real+projects;Exploring+Web+Development+%26+AI;Always+curious.+Always+creating."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Learning+by+building+real+projects.;Exploring+Web+Development+%26+AI.;Always+curious.+Always+creating."/>
+</p>
+
+<p align="center">
+
+✨ Welcome to my little corner of GitHub.
+
+I enjoy learning by building real-world projects, exploring web technologies,
+desktop applications, and Artificial Intelligence.
+
 </p>
 
 <p align="center">
@@ -27,7 +40,7 @@ Name: Adity Biswakarma
 Location: India 🇮🇳
 Education: Bachelor of Computer Applications (BCA)
 
-I'm passionate about:
+Interests:
   - Web Development
   - App Development
   - Artificial Intelligence
@@ -40,8 +53,8 @@ Currently Learning:
   - React Native
   - Python
 
-Current Goal:
-  Build meaningful projects,
+Goal:
+  Build useful software,
   improve my development skills,
   and contribute to open source.
 ```
@@ -58,11 +71,21 @@ Current Goal:
 
 ---
 
+# 🌟 What I'm Building
+
+- 📚 AI-powered study tools
+- 💃 Cultural & educational websites
+- 🌸 Desktop applications with Electron
+- 📱 Mobile applications with React Native (Learning)
+- 🤖 AI-powered applications
+
+---
+
 # 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,firebase,html,css,js,git,github,vscode,figma,c,cpp&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,git,github,vscode,figma,c,cpp&perline=5"/>
 
 </p>
 
@@ -108,73 +131,61 @@ Current Goal:
 
 # 🏅 GitHub Achievements
 
-<p align="center">
+- 🦈 Pull Shark
 
-🦈 Pull Shark
-
-🚀 More achievements coming as I continue learning and contributing.
-
-</p>
+Working towards more achievements by contributing and building projects.
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Learning Roadmap
 
 ```text
-🌱 React
-🌱 React Native
-🌱 Node.js
-🌱 Express.js
-🌱 MongoDB
-🌱 Firebase
-🌱 Python
-🌱 Artificial Intelligence
-🌱 Machine Learning
-🌱 Git & GitHub
-```
+✅ Completed
+├── HTML
+├── CSS
+├── JavaScript
+└── Git & GitHub
 
----
+📖 Currently Learning
+├── React
+├── Node.js
+├── MongoDB
+├── Python
+└── React Native
 
-# 📅 Current Learning Focus
-
-```text
-React             ███████████░░░░
-Node.js           █████████░░░░░░
-Python            ██████████░░░░░
-Artificial Intelligence ███████░░░░░░
-UI / UX           ████████████░░░
+🎯 Next Goals
+├── Artificial Intelligence
+├── Machine Learning
+├── Open Source
+└── Mobile Development
 ```
 
 ---
 
 # 🔭 What I'm Working On
 
-- 📚 Building **StudyFlow AI**
-- 💃 Improving **Dance Academy**
-- 🌸 Creating desktop applications with Electron
-- 🌐 Learning modern web development
+- 📚 StudyFlow AI
+- 💃 Dance Academy
+- 🌸 Electron Desktop Applications
+- 🌐 Learning Modern Web Development
 - 🤖 Exploring Artificial Intelligence
-- 🌍 Preparing for Open Source Contributions
 
 ---
 
-# 🎯 Goals for 2026
+# 🚀 Current Goals
 
-- ✅ Build a professional GitHub profile
-- ✅ Earn the Pull Shark achievement
-- ✅ Set up Contribution Snake
-- 🚧 Complete StudyFlow AI
-- ⬜ Learn React Native
-- ⬜ Build more web & mobile projects
-- ⬜ Make my first Open Source contribution
-- ⬜ Reach 500+ GitHub contributions
-- ⬜ Continue learning every day
+- 🦈 Earned the Pull Shark GitHub Achievement
+- 🌱 Build more real-world projects
+- 📱 Learn React Native
+- 🤖 Explore Artificial Intelligence
+- 🌍 Make my first Open Source contribution
+- 💼 Build a strong developer portfolio
 
 ---
 
-# 💡 Favorite Quote
+# 💭 My Philosophy
 
-> *"The expert in anything was once a beginner who refused to give up."*
+> **"Every project is an opportunity to learn something new."**
 
 ---
 
@@ -204,10 +215,10 @@ UI / UX           ████████████░░░
 
 <p align="center">
 
-## 🌸 Thanks for visiting my GitHub profile!
+### 🌸 Thanks for visiting my GitHub profile!
 
-**Learning • Building • Growing**
+**Learning one project at a time.**
 
-⭐ If you enjoy my projects, consider giving them a star!
+⭐ If you enjoy my work, consider giving a repository a star!
 
 </p>
