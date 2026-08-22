@@ -1,36 +1,45 @@
 # ✦ Hi, I'm Adity Biswakarma
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14001F,30:3A176B,55:7B3FB2,75:D88CCB,100:F4D6EA&height=280&section=header&text=ADITY%20BISWAKARMA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,35:7B3FA1,65:C77DCC,100:F2D6E8&height=260&section=header&text=Adity%20Biswakarma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=E8B7E8&center=true&vCenter=true&width=850&lines=BCA+Student+%E2%80%A2+Developer+in+Progress;Building+%E2%9C%A6+Learning+%E2%9C%A6+Improving+%E2%9C%A6+Exploring;Learning+through+real+projects.;Exploring+modern+web+development.;Curious+about+AI+and+new+technologies."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=9C4DCC&center=true&vCenter=true&width=900&lines=BCA+Student+%E2%9C%A6+Developer+in+Progress;Learning+through+real+projects.;Building+%E2%80%A2+Experimenting+%E2%80%A2+Improving.;Exploring+Modern+Web+Development.;Curious+About+AI+%26+New+Technologies."/>
 </p>
 
 <p align="center">
-  <b>✦ Building &nbsp;&nbsp; • &nbsp;&nbsp; Learning &nbsp;&nbsp; • &nbsp;&nbsp; Improving &nbsp;&nbsp; • &nbsp;&nbsp; Exploring ✦</b>
+
+✨ **Building** &nbsp; • &nbsp; **Learning** &nbsp; • &nbsp; **Creating** &nbsp; • &nbsp; **Exploring** ✨
+
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA%20Student-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-C77DCC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-E8A9D6?style=for-the-badge"/>
+</p>
 
-<table align="center">
+---
+
+# ✦ About Me
+
+<table>
 <tr>
-<td width="62%" valign="middle">
 
-### ✦ A little about what I do
+<td width="65%" valign="middle">
 
 I'm **Adity**, a BCA student interested in software development and technology.
 
-I enjoy learning through real projects, experimenting with technologies, designing interfaces, and turning ideas into working software.
+I enjoy learning by building projects, experimenting with different technologies, designing interfaces, and turning ideas into working software.
 
-Currently, I'm strengthening my foundations in **web development** while exploring **application development, UI/UX, Artificial Intelligence, and Machine Learning**.
+I'm currently strengthening my foundations in **web development** while exploring **application development, UI/UX, Artificial Intelligence, and Machine Learning**.
 
-> **Learn by building. Improve by experimenting.**
+> **I don't want to just learn technology — I want to build with it.**
 
 </td>
 
-<td width="38%" align="center">
+<td width="35%" align="center">
 
 <img src="https://github.com/buildWithAdity.png?size=400" width="220" alt="Adity Biswakarma"/>
 
@@ -38,246 +47,186 @@ Currently, I'm strengthening my foundations in **web development** while explori
 
 **buildWithAdity**
 
-✦ BCA Student  
-✦ Always Learning  
-✦ Building Real Projects  
-✦ Exploring Technology
+`BCA Student`
+
+`Learning & Building`
+
+`Exploring Technology`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# ✦ TECHNOLOGIES I'M EXPLORING
+# ✦ What I'm Exploring
 
-<table align="center">
-<tr>
+<p align="center">
 
-<td width="20%" align="center">
+### 🌐 Web Development
 
-### 🌐
+`HTML` `CSS` `JavaScript` `React` `Vite`
 
-**Web Development**
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-HTML  
-CSS  
-JavaScript  
-React  
-Vite
+### ⚙️ Backend & Databases
 
-</td>
+`Node.js` `Express` `MongoDB`
 
-<td width="20%" align="center">
+</p>
 
-### ⚙️
+<p align="center">
 
-**Backend & DB**
+### 💻 Programming
 
-Node.js  
-Express  
-MongoDB
+`Python` `C` `C++`
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td width="20%" align="center">
+### 🎨 Tools & Design
 
-### 💻
+`Git` `GitHub` `VS Code` `Figma`
 
-**Programming**
+</p>
 
-Python  
-C  
-C++
+<p align="center">
 
-</td>
+### ✦ Currently Exploring
 
-<td width="20%" align="center">
+`React Native` `Expo` `Artificial Intelligence` `Machine Learning`
 
-### ✦
-
-**Tools & Design**
-
-Git  
-GitHub  
-VS Code  
-Figma
-
-</td>
-
-<td width="20%" align="center">
-
-### ✧
-
-**Exploring Next**
-
-React Native  
-Expo  
-AI  
-ML
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,python,c,cpp,git,github,vscode,figma&perline=8"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,python,c,cpp,git,github,vscode,figma&perline=8"/>
 </p>
 
 ---
 
-# ✦ CURRENTLY BUILDING
+# ✦ Selected Projects
 
-<table>
-<tr>
+<p align="center">
+  <sub>
+    Projects I'm building, experimenting with, or have completed while learning.
+  </sub>
+</p>
 
-<td width="50%" valign="top">
+<br>
 
-### 📄 ResumeFoundry
+## 📄 ResumeFoundry
 
-**Web Development · UI**
+<p align="center">
+  <img src="https://opengraph.githubassets.com/1/buildWithAdity/ResumeFoundry" width="700" alt="ResumeFoundry"/>
+</p>
 
-A resume-builder project I'm actively developing, focused on customizable templates, editing, live preview, local persistence and PDF generation.
+**ResumeFoundry** is a resume-builder project I'm actively developing.
 
-**Status:** `IN DEVELOPMENT`
+The project focuses on creating a polished resume-building experience with customizable templates, editing, live preview, local persistence and PDF generation.
 
-</td>
+**Technology**
 
-<td width="50%" valign="top">
+`React` `Vite` `JavaScript` `HTML` `CSS`
 
-### 📚 StudyFlow AI
-
-**Application Development**
-
-A student productivity application I'm building while learning mobile development, with study planning, tasks, productivity tools and future intelligent features.
-
-**Status:** `IN DEVELOPMENT`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💃 Dance Academy
-
-**Web Development**
-
-A real-world website currently under development for a Bharatanatyam academy.
-
-This project is helping me understand real-world requirements and practical web development.
-
-**Status:** `IN DEVELOPMENT`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌸 Cute Calendar
-
-**Electron**
-
-A desktop calendar application created while exploring Electron and desktop application development.
-
-**Status:** `COMPLETED`
-
-</td>
-
-</tr>
-</table>
+**Status:** 🚧 **In Development**
 
 ---
 
-# ✦ FEATURED PROJECTS
+## 📚 StudyFlow AI
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://opengraph.githubassets.com/1/buildWithAdity/StudyFlow-AI" width="700" alt="StudyFlow AI"/>
+</p>
 
-<td width="25%" align="center">
+**StudyFlow AI** is a student productivity application I'm currently building while learning application development.
 
-<a href="https://github.com/buildWithAdity/ResumeFoundry">
+The project explores study planning, tasks, productivity tools and future intelligent features.
 
-<img src="https://opengraph.githubassets.com/1/buildWithAdity/ResumeFoundry" width="100%" alt="ResumeFoundry"/>
-
-</a>
-
-### ResumeFoundry
-
-A resume-builder project with customizable templates, editing, live preview and PDF generation.
-
-`React` `Vite` `JavaScript` `CSS`
-
-**🚧 In Development**
-
-</td>
-
-<td width="25%" align="center">
-
-<a href="https://github.com/buildWithAdity/StudyFlow-AI">
-
-<img src="https://opengraph.githubassets.com/1/buildWithAdity/StudyFlow-AI" width="100%" alt="StudyFlow AI"/>
-
-</a>
-
-### StudyFlow AI
-
-A student productivity application focused on planning, tasks and productivity tools.
+**Technology**
 
 `React Native` `Expo` `TypeScript`
 
-**🚧 In Development**
+**Status:** 🚧 **In Development**
 
-</td>
+---
 
-<td width="25%" align="center">
+## 💃 Dance Academy
 
-<a href="https://github.com/buildWithAdity/dance-academy">
+<p align="center">
+  <img src="https://opengraph.githubassets.com/1/buildWithAdity/dance-academy" width="700" alt="Dance Academy"/>
+</p>
 
-<img src="https://opengraph.githubassets.com/1/buildWithAdity/dance-academy" width="100%" alt="Dance Academy"/>
+**Dance Academy** is a real-world website currently under development for a Bharatanatyam academy.
 
-</a>
+This project is helping me understand how to turn a real-world requirement into an actual web project.
 
-### Dance Academy
-
-A real-world Bharatanatyam academy website currently being developed.
+**Technology**
 
 `React` `Vite` `JavaScript`
 
-**🚧 In Development**
+**Status:** 🚧 **In Development**
 
-</td>
+---
 
-<td width="25%" align="center">
+## 🌸 Cute Calendar
 
-<a href="https://github.com/buildWithAdity/my-electron-app-cute-calendar">
+<p align="center">
+  <img src="https://opengraph.githubassets.com/1/buildWithAdity/my-electron-app-cute-calendar" width="700" alt="Cute Calendar"/>
+</p>
 
-<img src="https://opengraph.githubassets.com/1/buildWithAdity/my-electron-app-cute-calendar" width="100%" alt="Cute Calendar"/>
+**Cute Calendar** is a desktop calendar application created while exploring Electron.
 
-</a>
+It helped me experiment with desktop application development, interface design and working with Electron.
 
-### Cute Calendar
-
-A soft desktop calendar application created while learning Electron.
+**Technology**
 
 `Electron` `JavaScript` `HTML` `CSS`
 
-**✅ Completed**
+**Status:** ✅ **Completed**
 
-</td>
+---
 
+# ✦ Currently Building
+
+<table align="center">
+
+<tr>
+<th>Project</th>
+<th>Focus</th>
+<th>Status</th>
 </tr>
+
+<tr>
+<td>📄 <b>ResumeFoundry</b></td>
+<td>Web Development · UI</td>
+<td>🚧 In Development</td>
+</tr>
+
+<tr>
+<td>📚 <b>StudyFlow AI</b></td>
+<td>Application Development</td>
+<td>🚧 In Development</td>
+</tr>
+
+<tr>
+<td>💃 <b>Dance Academy</b></td>
+<td>Web Development</td>
+<td>🚧 In Development</td>
+</tr>
+
+<tr>
+<td>🌸 <b>Cute Calendar</b></td>
+<td>Electron</td>
+<td>✅ Completed</td>
+</tr>
+
 </table>
 
 ---
 
-# ✦ MY LEARNING PATH
+# ✦ My Learning Path
 
 <p align="center">
 
@@ -311,117 +260,103 @@ A soft desktop calendar application created while learning Electron.
 
 <p align="center">
   <sub>
-    I'm learning progressively through coursework, experiments and personal projects.
+    Learning progressively through coursework, experiments and personal projects.
   </sub>
 </p>
 
 ---
 
-# ✦ GITHUB OVERVIEW
+# ✦ GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=buildWithAdity&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=false"/>
-
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=buildWithAdity&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildWithAdity&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildWithAdity&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
 
-# ✦ STREAK
+# ✦ Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildWithAdity&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-✦ Keep building. ✦
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildWithAdity&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# ✦ CONTRIBUTION GRAPH
+# ✦ Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildWithAdity&bg_color=14001F&color=E8B7E8&line=C77DFF&point=F4B8DC&area=true&hide_border=true&custom_title=Adity%27s%20Contribution%20Activity"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildWithAdity&bg_color=fffaff&color=7B2CBF&line=C77DFF&point=E8A9D6&area=true&hide_border=true"/>
 </p>
 
 ---
 
-# ✦ ACHIEVEMENTS
+# ✦ Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=buildWithAdity&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+  <img src="https://raw.githubusercontent.com/buildWithAdity/buildWithAdity/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </p>
 
-<table align="center">
-<tr>
+<p align="center">
+  <sub>✦ A visual record of my GitHub contribution journey ✦</sub>
+</p>
 
-<td align="center">
+---
 
-<img src="https://github.githubassets.com/assets/pull-shark-default-898c83a6cba8.png" width="90"/>
+# ✦ GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buildWithAdity&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=6"/>
+</p>
 
 <br>
 
-### 🦈 Pull Shark
+<p align="center">
 
-**Unlocked**
+<img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88%20Unlocked-6A1B9A?style=for-the-badge"/>
 
-</td>
+&nbsp;&nbsp;
 
-<td align="center">
+<img src="https://img.shields.io/badge/YOLO-%E2%9C%A8%20Unlocked-C77DCC?style=for-the-badge&labelColor=7B3FA1"/>
 
-### ✨ YOLO
-
-**Unlocked**
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
-✦ Two achievements unlocked — more to come. ✦
+**2 achievements unlocked ✦ More to come.**
 
 </p>
 
 ---
 
-# ✦ GOALS FOR 2026
+# ✦ 2026 Goals
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ✦ Development
+### Development
 
 - Strengthen web development fundamentals
 - Become confident with full-stack development
 - Build and deploy more real-world projects
-- Improve problem-solving and DSA
+- Improve problem-solving
+- Improve DSA fundamentals
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✦ Exploration
+### Exploration
 
-- Explore AI / ML deeply
+- Explore Artificial Intelligence
+- Learn more about Machine Learning
 - Continue application development
 - Contribute to open source
 - Participate in hackathons
@@ -434,47 +369,45 @@ A soft desktop calendar application created while learning Electron.
 
 ---
 
-# ✦ MY APPROACH
+# ✦ My Approach
 
 <p align="center">
 
-### 💡 Learn
+### Learn
 
-**→**
+↓  
 
-### ◇ Build
+### Build
 
-**→**
+↓  
 
-### ✦ Break
+### Experiment
 
-**→**
+↓  
 
-### ⚙️ Fix
+### Break
 
-**→**
+↓  
 
-### ↗ Improve
+### Fix
+
+↓  
+
+### Improve
 
 </p>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center">
-
-> **Not every project works.**  
-> **But every project teaches something.**  
-> **And that's how I grow. ✦**
-
-</td>
-</tr>
-</table>
+> **Not every project works perfectly.**
+>
+> **But every project teaches something.**
+>
+> **That's how I grow as a developer. ✦**
 
 ---
 
-# ✦ BEYOND THE CODE
+# ✦ Beyond the Code
 
 I enjoy the creative side of development too — especially **UI design, visual details, and making digital experiences feel thoughtful rather than purely functional.**
 
@@ -484,7 +417,7 @@ It's also about making it **useful, clear, and enjoyable to use.**
 
 ---
 
-# ✦ CONNECT
+# ✦ Connect With Me
 
 <p align="center">
 
@@ -493,6 +426,8 @@ It's also about making it **useful, clear, and enjoyable to use.**
 <img src="https://img.shields.io/badge/GitHub-buildWithAdity-181717?style=for-the-badge&logo=github"/>
 
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:aduubk888@gmail.com">
 
@@ -506,7 +441,13 @@ It's also about making it **useful, clear, and enjoyable to use.**
 
 <p align="center">
 
-### ✦ Building. Learning. Improving. ✦
+✦ &nbsp; ✧ &nbsp; ✦ &nbsp; ˚ &nbsp; ✧ &nbsp; ✦ &nbsp; ˚ &nbsp; ✧ &nbsp; ✦
+
+</p>
+
+<p align="center">
+
+## ✦ Building. Learning. Improving. ✦
 
 <sub>Thanks for visiting my profile.</sub>
 
@@ -519,5 +460,5 @@ It's also about making it **useful, clear, and enjoyable to use.**
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4D6EA,30:D88CCB,60:9C4DCC,100:3A176B&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3D6E8,35:D88CCB,65:9C4DCC,100:5B247A&height=150&section=footer"/>
 </p>
